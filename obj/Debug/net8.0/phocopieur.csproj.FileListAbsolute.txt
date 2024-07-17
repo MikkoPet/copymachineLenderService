@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\bin\Debug\net8.0\phocopieur.exe
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\bin\Debug\net8.0\phocopieur.deps.json
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\bin\Debug\net8.0\phocopieur.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\bin\Debug\net8.0\phocopieur.dll
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\bin\Debug\net8.0\phocopieur.pdb
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\obj\Debug\net8.0\phocopieur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\obj\Debug\net8.0\phocopieur.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\obj\Debug\net8.0\phocopieur.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\obj\Debug\net8.0\phocopieur.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\obj\Debug\net8.0\phocopieur.dll
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\obj\Debug\net8.0\refint\phocopieur.dll
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\obj\Debug\net8.0\phocopieur.pdb
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\obj\Debug\net8.0\phocopieur.genruntimeconfig.cache
+C:\Users\Utilisateur\source\repos\phocopieur\phocopieur\obj\Debug\net8.0\ref\phocopieur.dll
